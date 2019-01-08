@@ -1,3 +1,6 @@
+# Sample Logic OOP dengan PHP
+
+```php
 <?php
 
 class SampleLogic{
@@ -46,3 +49,4 @@ class SampleLogic{
 $preview = new SampleLogic();
 $preview->setMatrix(5);
 $preview->showMatrix();
+```
